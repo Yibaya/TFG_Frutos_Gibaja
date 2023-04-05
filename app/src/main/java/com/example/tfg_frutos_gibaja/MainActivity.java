@@ -17,7 +17,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.tfg_frutos_gibaja.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-//ola
+//olaqtal
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityMainBinding binding;
 
